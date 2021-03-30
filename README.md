@@ -34,6 +34,6 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-31%20at%2012.09.52%20AM.png" width="600" height="400"/>
 <br> </br>
-<h4> Step 4 : These concurrent circles allow you to sketch. Now draw using Air Sketch and Enjoy! </h4>
+<h4> Step 4 : These consecutive circles allow you to sketch. Now draw using Air Sketch and Enjoy! </h4>
 <br></br>
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-31%20at%2012.11.14%20AM.png" width="600" height="400"/>
