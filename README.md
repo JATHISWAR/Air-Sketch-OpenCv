@@ -4,7 +4,7 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 
 Procedure :
 
-<h2>Step 1 : Implement Color picker and find the correct set of HSV values </h2>
+<h4>Step 1 : Implement Color picker and find the correct set of HSV values </h4>
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%201.03.58%20PM.png" width="600" height="400"/>
 
