@@ -19,7 +19,7 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%208.57.56%20PM.png" width="600" height="400"/>
 
 <br> </br>
-<h4>Detecting the contours of the given object and also finding the tip of the contour for Air-Sketch. </h4>
+<h4> Step 2: Detecting the contours of the given object and also finding the tip of the contour for Air-Sketch. </h4>
 <br></br>
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%2011.51.37%20PM.png" width="600" height="400"/>
@@ -28,6 +28,12 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%2011.58.33%20PM.png" width="500" height="600"/>
 
-<img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-31%20at%2012.09.52%20AM.png" width="600" height="400"/>
+<br> </br>
+<h4> Step 3:Implement Air-Sketch Method to find concurrent points to draw circles according to the movement of object in camera. </h4>
+<br></br>
 
+<img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-31%20at%2012.09.52%20AM.png" width="600" height="400"/>
+<br> </br>
+<h4> Step 4 : These concurrent circles allow you to sketch. Now draw using Air Sketch and Enjoy! </h4>
+<br></br>
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-31%20at%2012.11.14%20AM.png" width="600" height="400"/>
