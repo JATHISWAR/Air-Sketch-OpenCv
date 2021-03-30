@@ -11,9 +11,9 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%2011.25.07%20AM.png" width="600" height="400"/>
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%208.57.04%20PM.png" width="600" height="400"/>
-
-<h4> The most desirable HSV value for any object is the region where only the object is shown white and rest of the other elements are black </h4>
-
+<br> </br>
+<h4> The most desirable HSV value for any object is the region where only the object is shown white and rest of the other elements are black. </h4>
+<br></br>
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%208.57.41%20PM.png" width="600" height="400"/>
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%208.57.56%20PM.png" width="600" height="400"/>
