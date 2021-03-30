@@ -18,6 +18,10 @@ A sample project made using OpenCv to Draw Sketches in Air with different colour
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%208.57.56%20PM.png" width="600" height="400"/>
 
+<br> </br>
+<h4>Detecting the contours of the given object and also finding the tip of the contour for Air-Sketch. </h4>
+<br></br>
+
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%2011.51.37%20PM.png" width="600" height="400"/>
 
 <img src="https://github.com/JATHISWAR/Air-Sketch-OpenCv/blob/main/Screenshot%202021-03-30%20at%2011.52.49%20PM.png" width="600" height="400"/>
